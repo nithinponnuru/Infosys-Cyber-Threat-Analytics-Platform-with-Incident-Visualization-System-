@@ -1,4 +1,4 @@
-#📊 Cyber Threat Analytics Platform and Incident Visualization System
+📊 Cyber Threat Analytics Platform and Incident Visualization System
 
 🚀 Project Overview
 This project was completed as part of our internship with Infosys Springboard Virtual Internship 7.0.
